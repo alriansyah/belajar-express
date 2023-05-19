@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1684461928803" clover="3.2.0">
+  <project timestamp="1684461928803" name="All files">
+    <metrics statements="11" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0" elements="15" coveredelements="0" complexity="0" loc="11" ncloc="11" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="C:\Users\Al Riansyah\Desktop\FullStack Developer\Backend\NodeJs Pemula sampai Mahir\Express Js\belajar-express\src\index.js">
+      <metrics statements="11" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <line num="3" count="0" type="stmt"/>
+      <line num="5" count="0" type="stmt"/>
+      <line num="7" count="0" type="stmt"/>
+      <line num="8" count="0" type="stmt"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="12" count="0" type="stmt"/>
+      <line num="15" count="0" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="20" count="0" type="stmt"/>
+      <line num="21" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
